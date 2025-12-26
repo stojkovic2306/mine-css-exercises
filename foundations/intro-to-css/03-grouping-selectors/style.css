@@ -1,1 +1,10 @@
-/* Add CSS Styling */
+.primary-button {
+    background-color: black;
+    border-color: gray;
+    color: white;
+}
+
+.secondary-button {
+    background-color: yellow;
+    border-color: gray;
+}
